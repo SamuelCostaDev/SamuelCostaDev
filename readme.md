@@ -1,4 +1,4 @@
-ud# Olá 👀 , me chamo Samuel 👋
+# Olá 👀 , me chamo Samuel 👋
 
 ### Sobre mim... 🤓
 
