@@ -2,16 +2,13 @@
 
 ### Sobre mim... 🤓
 
-💻 Eu sou um desenvolvedor [FullStack]
+💻 Eu sou um desenvolvedor [Back-End]
 
 
-🎓 Estudando [[[Formação] Full Stack Javascript](https://www.onebitcode.com/javascript)] na plataforma da [@🤘OneBitCode](https://www.onebitcode.com/)
+🎓 Cursando 6º Semestre de Ciência da Computação na Universidade Anhanguera
 
-🎓 Cursando 2º Semestre de Ciência da Computação na Universidade Anhanguera
+👩‍💻 Tenho 2 anos de Experiencia como [Desenvolvedor Web]
 
-👩‍💻 Atualmente eu trabalho como [Desenvolvedor Web] @ [[Smart Telecom - Projetos e Consultoria para Provedores](https://smarttelecom.eng.br/)]
-
-✒️ Eu gosto de no meu tempo livre [Ir pra academia]
 
 ### Eu já trabalhei com... 🔧
 
@@ -20,6 +17,8 @@
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
@@ -27,11 +26,11 @@
 
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 
 
 ### Entre em contato comigo! 📭
 <div>
 <a href="https://www.linkedin.com/in/antoniosamuel/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
-<a href="https://instagram.com/samuel.costa.1" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
 
