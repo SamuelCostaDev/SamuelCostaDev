@@ -1,36 +1,42 @@
-# Olá 👀 , me chamo Samuel 👋
+## 👋 Opa! Me chamo Samuel
 
-### Sobre mim... 🤓
+Sou **Desenvolvedor Back-End** com mais de **2 anos de experiência em desenvolvimento web**, atuando principalmente com **PHP, Laravel e MySQL**.
 
-💻 Eu sou um desenvolvedor [Back-End]
+💼 Experiência com sistemas web, APIs, CRUDs, MVC e manutenção de sistemas legados  
+🎓 Atualmente curso **Ciência da Computação (6º semestre)**.
 
+---
 
-🎓 Cursando 6º Semestre de Ciência da Computação na Universidade Anhanguera
+## 🚀 No que eu gosto de trabalhar
 
-👩‍💻 Tenho 2 anos de Experiencia como [Desenvolvedor Web]
+- Construção de **sistemas back-end bem organizados**
+- Desenvolvimento de **APIs e CRUDs**
+- Lógica de negócio e arquitetura MVC
+- Integração com **AJAX / jQuery**
+- Banco de dados **MySQL**
+- Refatoração e melhoria de código legado
 
+Gosto de aprender constantemente e evoluir tanto **tecnicamente** quanto em **boas práticas de desenvolvimento**.
 
-### Eu já trabalhei com... 🔧
+---
 
-**Tecnologias**
+## 🧰 Stack principal
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+- **PHP | Laravel**
+- **MySQL**
+- **JavaScript | jQuery**
+- **HTML | CSS**
+- **Git | VS Code**
 
-**Ferramentas**
+---
 
-![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+## 🤝 Vamos trocar uma ideia?
 
+Se quiser conversar sobre tecnologia, projetos ou oportunidades:
 
-### Entre em contato comigo! 📭
-<div>
-<a href="https://www.linkedin.com/in/antoniosamuel/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
-</div>
-
+<a href="https://www.linkedin.com/in/antoniosamuel/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+<a href="https://wa.me/5585991343116" target="_blank">
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
+</a>
